@@ -4,7 +4,7 @@ let host;
 if(process.env.NODE_ENV === 'development'){
     host = 'http://localhost:8080';
 }else{
-    host = 'http://hotelsasaba.centralus.cloudapp.azure.com';
+    host = 'hotelsasaba.centralus.cloudapp.azure.com';
 }
 
 
